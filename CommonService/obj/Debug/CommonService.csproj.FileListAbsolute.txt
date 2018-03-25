@@ -1,0 +1,5 @@
+E:\Donet Study\RemotingDemo.Server\CommonService\bin\Debug\CommonService.dll
+E:\Donet Study\RemotingDemo.Server\CommonService\bin\Debug\CommonService.pdb
+E:\Donet Study\RemotingDemo.Server\CommonService\obj\Debug\CommonService.csproj.CoreCompileInputs.cache
+E:\Donet Study\RemotingDemo.Server\CommonService\obj\Debug\CommonService.dll
+E:\Donet Study\RemotingDemo.Server\CommonService\obj\Debug\CommonService.pdb

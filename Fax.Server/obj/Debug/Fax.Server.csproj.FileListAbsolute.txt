@@ -1,0 +1,12 @@
+E:\Donet Study\RemotingDemo.Server\Fax.Server\bin\Debug\Fax.Server.exe.config
+E:\Donet Study\RemotingDemo.Server\Fax.Server\bin\Debug\Fax.Server.exe
+E:\Donet Study\RemotingDemo.Server\Fax.Server\bin\Debug\Fax.Server.pdb
+E:\Donet Study\RemotingDemo.Server\Fax.Server\bin\Debug\Common.dll
+E:\Donet Study\RemotingDemo.Server\Fax.Server\bin\Debug\Common.pdb
+E:\Donet Study\RemotingDemo.Server\Fax.Server\obj\Debug\Fax.Server.csprojResolveAssemblyReference.cache
+E:\Donet Study\RemotingDemo.Server\Fax.Server\obj\Debug\Fax.Server.Form1.resources
+E:\Donet Study\RemotingDemo.Server\Fax.Server\obj\Debug\Fax.Server.Properties.Resources.resources
+E:\Donet Study\RemotingDemo.Server\Fax.Server\obj\Debug\Fax.Server.csproj.GenerateResource.Cache
+E:\Donet Study\RemotingDemo.Server\Fax.Server\obj\Debug\Fax.Server.csproj.CoreCompileInputs.cache
+E:\Donet Study\RemotingDemo.Server\Fax.Server\obj\Debug\Fax.Server.exe
+E:\Donet Study\RemotingDemo.Server\Fax.Server\obj\Debug\Fax.Server.pdb

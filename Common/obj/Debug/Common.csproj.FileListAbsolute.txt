@@ -1,0 +1,6 @@
+E:\Donet Study\RemotingDemo.Server\Common\bin\Debug\Common.dll
+E:\Donet Study\RemotingDemo.Server\Common\bin\Debug\Common.pdb
+E:\Donet Study\RemotingDemo.Server\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Donet Study\RemotingDemo.Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Donet Study\RemotingDemo.Server\Common\obj\Debug\Common.dll
+E:\Donet Study\RemotingDemo.Server\Common\obj\Debug\Common.pdb

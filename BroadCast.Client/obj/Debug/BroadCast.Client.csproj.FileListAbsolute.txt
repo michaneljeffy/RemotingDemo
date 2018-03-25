@@ -1,0 +1,11 @@
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\bin\Debug\BroadCast.Client.exe.config
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\bin\Debug\BroadCast.Client.exe
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\bin\Debug\BroadCast.Client.pdb
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\bin\Debug\Common.dll
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\bin\Debug\Common.pdb
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\obj\Debug\BroadCast.Client.Form1.resources
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\obj\Debug\BroadCast.Client.Properties.Resources.resources
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\obj\Debug\BroadCast.Client.csproj.GenerateResource.Cache
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\obj\Debug\BroadCast.Client.csproj.CoreCompileInputs.cache
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\obj\Debug\BroadCast.Client.exe
+E:\Donet Study\RemotingDemo.Server\BroadCast.Client\obj\Debug\BroadCast.Client.pdb

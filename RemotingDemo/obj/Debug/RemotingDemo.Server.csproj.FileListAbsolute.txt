@@ -1,0 +1,9 @@
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\bin\Debug\RemotingDemo.exe.config
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\bin\Debug\RemotingDemo.exe
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\bin\Debug\RemotingDemo.pdb
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\bin\Debug\CommonService.dll
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\bin\Debug\CommonService.pdb
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\obj\Debug\RemotingDemo.Server.csprojResolveAssemblyReference.cache
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\obj\Debug\RemotingDemo.Server.csproj.CoreCompileInputs.cache
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\obj\Debug\RemotingDemo.exe
+E:\Donet Study\RemotingDemo.Server\RemotingDemo\obj\Debug\RemotingDemo.pdb
